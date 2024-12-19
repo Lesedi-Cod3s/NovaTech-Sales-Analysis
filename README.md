@@ -30,7 +30,7 @@ The following report provides detailed insights and recommendations in these cri
 
 ---
 
-### **Data Structure and Initial Checks**
+### Data Structure and Initial Checks
 
 Our main database is structured into four key tables, totalling **1282250 records**:
 
@@ -45,11 +45,13 @@ Our main database is structured into four key tables, totalling **1282250 record
 - **Date table(Calculated):**
 *** Dedicated table containing a continuous range of dates that serves as the primary source for all date-related calculations and visuals
 
+![Screenshot 2024-12-18 234114](https://github.com/user-attachments/assets/614c700d-2672-4b6b-a5d1-b81cd4cef329)
+
 ---
 
-### **Insights and Recommendations**
+### Insights and Recommendations
 
-### ** Product Category Performance**
+### Product Category Performance
 
 **Insights:**
 
@@ -67,12 +69,13 @@ Our main database is structured into four key tables, totalling **1282250 record
 
 **Visualization:**
 
-![Screenshot 2024-12-19 024315](https://github.com/user-attachments/assets/479a648b-ce59-42ff-aa76-5ea68e0cf454)
+![Screenshot 2024-12-19 024315](https://github.com/user-attachments/assets/8114e592-b064-474e-9e2e-16830b8c1d72)
+
 
 
 ---
 
-### Regional Performance (APAC Focus)**
+### Regional Performance (APAC Focus)
 
 **Insights:**
 
@@ -88,12 +91,13 @@ Our main database is structured into four key tables, totalling **1282250 record
 
 **Visualization:**
 
-![Screenshot 2024-12-19 024337](https://github.com/user-attachments/assets/484576e1-340a-41c2-b331-6bae0f8e51a7)
+![Screenshot 2024-12-19 024337](https://github.com/user-attachments/assets/adc7df15-88e4-4591-a5e9-509a7ce06b70)
+
 
 
 ---
 
-### Seasonal Sales and Profitability Patterns**
+### Seasonal Sales and Profitability Patterns
 
 **Insights:**
 
@@ -109,12 +113,12 @@ Our main database is structured into four key tables, totalling **1282250 record
 
 **Visualization:**
 
-![Screenshot 2024-12-19 024355](https://github.com/user-attachments/assets/872a521b-2e51-4021-99de-a25087ee1c44)
+![Screenshot 2024-12-19 024355](https://github.com/user-attachments/assets/e221e393-fe01-4345-95bb-82e2921cf45d)
 
 
 ---
 
-### Shipping Optimization**
+### Shipping Optimization
 
 **Insights:**
 
@@ -130,7 +134,8 @@ Our main database is structured into four key tables, totalling **1282250 record
 
 **Visualization:**
 
-![Screenshot 2024-12-19 024411](https://github.com/user-attachments/assets/6e2746cd-1968-4d29-adb7-e2315dd419ac)
+![Screenshot 2024-12-19 024411](https://github.com/user-attachments/assets/f5ef936d-2b7a-47e4-9033-7c4313063465)
+
 
 
 ---
